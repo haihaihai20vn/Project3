@@ -1,3 +1,3 @@
-Install open-cv: pip install opencv-contrib-python
-Install pillow: pip install Pillow
+Install open-cv: pip install opencv-contrib-python\n
+Install pillow: pip install Pillow\n
 Install mysql: pip install mysql-connector-python
